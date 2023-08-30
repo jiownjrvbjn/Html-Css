@@ -1,2 +1,3 @@
 # MernStack
-I have created this repository to upload my Mern Stack Industrial training codes and tasks.
+I have created this repository to upload my Mern Stack Industrial training codes and tasks
+I have established this repository with the primary purpose of housing and sharing the codebase and tasks I've worked on during my intensive MERN Stack industrial training. This repository serves as a dedicated space where I can systematically organize, store, and present the comprehensive collection of codes and tasks that I've meticulously crafted and developed throughout the duration of my training. By consolidating these valuable resources within this repository, I aim to showcase my proficiency in MERN Stack technologies while also providing a clear overview of the skills I've honed and the projects I've undertaken during this enriching learning experience.
